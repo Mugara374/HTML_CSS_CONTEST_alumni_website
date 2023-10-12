@@ -1,1 +1,1 @@
-This is the README file for this repository to have general description of what HTML and CSS contst-Alumni_website will be all about the websites showing the upcoming events by the ALU alumni.
+This is project is about the ALU alumni website called ALUmniConnekt. It will contain all the information about different upcoming events related to either professional development or campus.
