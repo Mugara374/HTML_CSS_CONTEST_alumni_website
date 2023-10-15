@@ -8,7 +8,7 @@ body {
   background-color: white;
   text-align: center;
   background-color: rgb(148, 152, 233);
-  color: rgb(247, 247, 247);
+  color: darkred;
 }
 
 header h1 {
@@ -49,10 +49,12 @@ header:hover {
   margin-bottom: 20px;
   background-size: cover;
   height: 30vh;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.7rem;
 }
 
-h2 {
-  font-size: 40px;
+img {
+  border-radius: 25px;
 }
 
 p {
@@ -94,4 +96,21 @@ p {
 .team img {
   width: 90px;
   padding-top: 20px;
+}
+
+.button {
+  background-color: darkred;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.3rem;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+a:hover {
+  color: #003366;
 }
